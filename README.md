@@ -5,10 +5,10 @@
 </div>  
   
 
-### <div align="center">I'm Ali, a A programming enthusiast 👨‍💻</div>  
+### <div align="center">I'm Ali, a programming enthusiast 👨‍💻</div>  
   
 
-- 🌱 I’m currently learning Back-End development including Django and Node js  
+🌱 I’m currently learning Back-End development including Django and Node js  
 
 
 </td><td valign="top" width="50%">
@@ -75,7 +75,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHasanzadeh80&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 

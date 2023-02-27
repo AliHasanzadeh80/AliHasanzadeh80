@@ -79,19 +79,19 @@
 
 <br/>  
 
-
+<!-- 
 ## Recent Blog Posts  
   
 
-<br/>  
+<br/>   -->
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=5nequs9acvd3tbvfdt8iezg0v&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
+<!-- <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=5nequs9acvd3tbvfdt8iezg0v&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
 
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=AliHasanzadeh80&&style=flat-square" align="center" />
-</div>  
+</div>   -->
   
 
 <br/>  

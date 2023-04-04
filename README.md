@@ -8,7 +8,7 @@
 ### <div align="center">I'm Ali, a programming enthusiast 👨‍💻</div>  
   
 
-🌱 I’m currently learning Back-End development including Django and Node js  
+🌱 I’m currently learning Data science.
 
 
 </td><td valign="top" width="50%">

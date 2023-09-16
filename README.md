@@ -5,7 +5,7 @@
 </div>  
   
 
-### <div align="center">I'm Ali, a programming developer and data analyst 👨‍💻</div>  
+### <div align="center">I'm Ali, a Python developer and a Data Analyst 👨‍💻</div>  
   
 
 

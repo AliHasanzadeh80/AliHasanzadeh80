@@ -5,10 +5,9 @@
 </div>  
   
 
-### <div align="center">I'm Ali, a programming enthusiast 👨‍💻</div>  
+### <div align="center">I'm Ali, a programming developer and data analyst 👨‍💻</div>  
   
 
-🌱 I’m currently learning Python and Data Science concepts.
 
 
 </td><td valign="top" width="50%">
